@@ -9,7 +9,7 @@ https://www.petanikode.com/regex/
 
 > Mengenal Javascript Regex
 
-Javascript Modules akan memilih kondisi true atau yang benar yang akan dijalankan.
+Javascript Regex akan memilih kondisi true atau yang benar yang akan dijalankan.
 
 ## Dokumentasi Javascript Regex
 
